@@ -16,3 +16,4 @@ The application also supports the generation of PDF reports based on database-dr
 
 Lastly, seamless integration with email or SMS notification services enhances user engagement by delivering timely alerts and updates.
 In summary, this Android application offers a robust solution for user authentication, management, and notification integration, backed by reliable Firebase database connectivity.
+
